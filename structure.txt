@@ -1,0 +1,26 @@
+File structure
+
+TradingLab/
+│
+├── gateway/
+│   ├── server.py
+│   ├── client_handler.py
+│   ├── validator.py
+│   ├── order_processor.py
+│   ├── logger.py
+│   └── config.py
+│
+├── database/
+│   ├── db.py
+│   ├── schema.sql
+│   └── queries.py
+│
+├── logs/
+│
+├── tests/
+│
+├── docs/
+│
+├── requirements.txt
+│
+└── README.md
